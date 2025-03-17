@@ -29,6 +29,8 @@ Para visualizar os itens adicionados e revisar as quantidades e valores antes de
       <td>Manual</td>
       <td>Aprovado</td>
       <td></td>
+    </tr>
+    <tr>
       <td>
         <strong>Dado</strong> que estou com o carrinho de compras aberto, <br>
         <strong>Quando</strong> clico no ícone de carrinho de compras, <br>
@@ -37,6 +39,8 @@ Para visualizar os itens adicionados e revisar as quantidades e valores antes de
       <td>Manual</td>
       <td>Aprovado</td>
       <td></td>
+    </tr>
+    <tr>
       <td>
         <strong>Dado</strong> que estou com o carrinho de compras aberto, <br>
         <strong>Quando</strong> clico fora do modal, <br>
@@ -46,5 +50,6 @@ Para visualizar os itens adicionados e revisar as quantidades e valores antes de
       <td>Aprovado</td>
       <td></td>
     </tr>
+    
     </tbody>
 </table>
