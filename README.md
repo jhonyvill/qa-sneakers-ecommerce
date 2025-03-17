@@ -22,3 +22,4 @@ Inicialmente o documento foi criado no Confluence, com criação de bug report n
     - Carrinho de compras.
         - [Visualizar carrinho de compras.](./features/02-view-cart.md)
         - [Adicionar item.](./features/03-add-item-cart.md)
+        - [Realizar checkout.](./features/04-checkout-cart.md)
