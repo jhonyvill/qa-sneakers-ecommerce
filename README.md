@@ -21,3 +21,4 @@ Inicialmente o documento foi criado no Confluence, com criação de bug report n
         - [Selecionar a quantidade de um produto.](./features/01-select-quantity-item.md)
     - Carrinho de compras.
         - [Visualizar carrinho de compras.](./features/02-view-cart.md)
+        - [Adicionar item.](./features/03-add-item-cart.md)
