@@ -31,3 +31,4 @@ Inicialmente o documento foi criado no Confluence, com criação de bug report n
         - [Fechar visualização de imagens em tela cheia.](./features/09-close-images-modal.md)
     - Navegação entre páginas.
         - [Redirecionar para página inicial através da logo “Sneakers”.](./features/10-redirect-homepage-logo.md)
+        - [Navegação através do menu.](./features/11-menu-navigate.md)
