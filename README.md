@@ -24,3 +24,5 @@ Inicialmente o documento foi criado no Confluence, com criação de bug report n
         - [Adicionar item.](./features/03-add-item-cart.md)
         - [Realizar checkout.](./features/04-checkout-cart.md)
         - [Deletar item.](./features/05-remove-item-cart.md)
+    - Imagens do produto.
+        - [Alterar imagem em destaque na página de produto.](./features/06-change-featured-image.md)
