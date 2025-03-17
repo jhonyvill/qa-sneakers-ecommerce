@@ -32,3 +32,5 @@ Inicialmente o documento foi criado no Confluence, com criação de bug report n
     - Navegação entre páginas.
         - [Redirecionar para página inicial através da logo “Sneakers”.](./features/10-redirect-homepage-logo.md)
         - [Navegação através do menu.](./features/11-menu-navigate.md)
+    - Perfil de usuário.
+        - [Visualizar ações de perfil de usuário.](./features/12-view-user-profile-actions.md)
