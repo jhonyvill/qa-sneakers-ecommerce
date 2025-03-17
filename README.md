@@ -13,3 +13,9 @@ Inicialmente o documento foi criado no Confluence, com criação de bug report n
 ## Autor
 
 - Linkedin - [Jhony Vill da Silva](www.linkedin.com/in/jhonyvill).
+
+## Índice.
+
+- Funcionalidades
+    - Seletor de quantidade de um produto.
+        - [Selecionar a quantidade de um produto.](./features/01-select-quantity-item.md)
