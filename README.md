@@ -19,3 +19,5 @@ Inicialmente o documento foi criado no Confluence, com criação de bug report n
 - Funcionalidades
     - Seletor de quantidade de um produto.
         - [Selecionar a quantidade de um produto.](./features/01-select-quantity-item.md)
+    - Carrinho de compras.
+        - [Visualizar carrinho de compras.](./features/02-view-cart.md)
