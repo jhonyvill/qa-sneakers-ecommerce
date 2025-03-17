@@ -34,3 +34,13 @@ Inicialmente o documento foi criado no Confluence, com criação de bug report n
         - [Navegação através do menu.](./features/11-menu-navigate.md)
     - Perfil de usuário.
         - [Visualizar ações de perfil de usuário.](./features/12-view-user-profile-actions.md)
+
+- Relatórios de bug
+    - [[SNKRS-1] Item removido do carrinho de compras ao navegar entre as páginas da aplicação.](./bugs/snkrs-1/snkrs-1.md)
+    - [[SNKRS-2] Item removido do carrinho de compras ao atualizar a página.](./bugs/snkrs-2/snkrs-2.md)
+    - [[SNKRS-3] Conteúdo da página "Collections" não carrega e exibe "Not Found".](./bugs/snkrs-3/snkrs-3.md)
+    - [[SNKRS-4] Conteúdo da página "Men" não carrega e exibe "Not Found".](./bugs/snkrs-4/snkrs-4.md)
+    - [[SNKRS-5] Conteúdo da página "Women" não carrega e exibe "Not Found".](./bugs/snkrs-5/snkrs-5.md)
+    - [[SNKRS-6] Conteúdo da página "About" não carrega e exibe "Not Found".](./bugs/snkrs-6/snkrs-6.md)
+    - [[SNKRS-7] Conteúdo da página "Contact" não carrega e exibe "Not Found".](./bugs/snkrs-7/snkrs-7.md)
+    - [[SNKRS-8] Modal de perfil de usuário não apresenta as opções de navegação.](./bugs/snkrs-8/snkrs-8.md)
