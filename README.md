@@ -27,3 +27,4 @@ Inicialmente o documento foi criado no Confluence, com criação de bug report n
     - Imagens do produto.
         - [Alterar imagem em destaque na página de produto.](./features/06-change-featured-image.md)
         - [Visualizar imagens em modal de tela cheia.](./features/07-view-images-modal.md)
+        - [Alterar imagem em destaque no modal de tela cheia.](./features/08-change-image-modal.md)
