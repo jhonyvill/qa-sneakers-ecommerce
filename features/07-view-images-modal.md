@@ -6,12 +6,12 @@ Como cliente,<br>
 Quero visualizar as imagens de um produto em tela cheia,<br>
 Para observar os detalhes com mais clareza antes de tomar uma decisão.<br>
 
-## Casos de teste.
+## Cenários de teste.
 
 <table>
     <thead>
         <tr>
-            <th>Casos de teste</th>
+            <th>Cenários de teste</th>
             <th>Execução</th>
             <th>Status</th>
             <th>Bug</th>
@@ -20,6 +20,7 @@ Para observar os detalhes com mais clareza antes de tomar uma decisão.<br>
     <tbody>
         <tr>
             <td>
+                <strong>Cenário:</strong> abrir visualização de imagens em tela cheia ao clicar na imagem em destaque.<br>
                 <strong>Dado</strong> que estou na página de um produto, <br>
                 <strong>Quando</strong> clico na imagem em destaque, <br>
                 <strong>Então</strong> deve abrir um modal ocupando toda a tela com a imagem clicada em destaque,<br>

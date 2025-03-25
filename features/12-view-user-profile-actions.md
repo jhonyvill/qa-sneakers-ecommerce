@@ -6,12 +6,12 @@ Como cliente,<br>
 Quero visualizar as informações do meu perfil,<br>
 Para verificar e confirmar meus dados pessoais e informações de conta.<br>
 
-## Casos de teste.
+## Cenários de teste.
 
 <table>
     <thead>
         <tr>
-            <th>Casos de teste</th>
+            <th>Cenários de teste</th>
             <th>Execução</th>
             <th>Status</th>
             <th>Bug</th>
@@ -20,6 +20,7 @@ Para verificar e confirmar meus dados pessoais e informações de conta.<br>
     <tbody>
         <tr>
             <td>
+                <strong>Cenário:</strong> verificar abertura do modal de informações do usuário ao clicar na miniatura de imagem de perfil.<br>
                 <strong>Dado</strong> que estou autenticado, <br>
                 <strong>Quando</strong> clico na miniatura de imagem do perfil, <br>
                 <strong>Então</strong> um modal deve ser exibida, <br>
@@ -32,6 +33,7 @@ Para verificar e confirmar meus dados pessoais e informações de conta.<br>
         </tr>
         <tr>
             <td>
+                <strong>Cenário:</strong> fechar modal de informações do usuário com clique na miniatura de imagem de perfil.<br>
                 <strong>Dado</strong> que estou autenticado, <br>
                 <strong>E</strong> estou com o modal de perfil de usuário aberta, <br>
                 <strong>Quando</strong> clico na miniatura de imagem do perfil, <br>

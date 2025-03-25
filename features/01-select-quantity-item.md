@@ -6,12 +6,12 @@ Como cliente,<br>
 Quero poder selecionar a quantidade de um mesmo produto,<br>
 Para poder adicionar múltiplas unidades do mesmo produto ao carrinho de compras.<br>
 
-## Casos de teste.
+## Cenários de teste.
 
 <table>
     <thead>
         <tr>
-            <th>Casos de teste</th>
+            <th>Cenários de teste</th>
             <th>Execução</th>
             <th>Status</th>
             <th>Bug</th>
@@ -20,6 +20,7 @@ Para poder adicionar múltiplas unidades do mesmo produto ao carrinho de compras
     <tbody>
         <tr>
             <td>
+                <strong>Cenário:</strong> aumentar quantidade selecionada de um produto.<br>
                 <strong>Dado</strong> que estou na página de um produto,<br>
                 <strong>Quando</strong> clico no botão com o símbolo “+” no seletor de quantidade,<br>
                 <strong>Então</strong> a quantidade selecionada do produto é aumentada em 1.<br>
@@ -30,6 +31,7 @@ Para poder adicionar múltiplas unidades do mesmo produto ao carrinho de compras
         </tr>
         <tr>
             <td>
+                <strong>Cenário:</strong> verificar a quantidade máxima selecionada permitida.<br>
                 <strong>Dado</strong> que estou na página de um produto,<br>
                 <strong>E</strong> a quantidade selecionada do produto é igual a 10,<br>
                 <strong>Quando</strong> clico no botão com o símbolo “+” no seletor de quantidade,<br>
@@ -42,6 +44,7 @@ Para poder adicionar múltiplas unidades do mesmo produto ao carrinho de compras
         </tr>
         <tr>
             <td>
+                <strong>Cenário:</strong> diminuir quantidade selecionada de um produto.<br>
                 <strong>Dado</strong> que estou na página de um produto,<br>
                 <strong>E</strong> a quantidade selecionada do produto é maior que 0,<br>
                 <strong>Quando</strong> clico no botão com o símbolo “-” no seletor de quantidade,<br>
@@ -54,6 +57,7 @@ Para poder adicionar múltiplas unidades do mesmo produto ao carrinho de compras
         </tr>
         <tr>
             <td>
+                <strong>Cenário:</strong> verificar possibilidade de selecionar menos de 0 itens.<br>
                 <strong>Dado</strong> que estou na página de um produto,<br>
                 <strong>E</strong> a quantidade selecionada do produto é igual a 0,<br>
                 <strong>Quando</strong> clico no botão com o símbolo “-” no seletor de quantidade,<br>
