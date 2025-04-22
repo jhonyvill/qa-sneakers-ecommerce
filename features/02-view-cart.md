@@ -1,7 +1,9 @@
 ## Funcionalidade.
+
 **Visualizar carrinho de compras.**
 
 ## User Story.
+
 Como cliente,<br>
 Quero poder visualizar o carrinho de compras,<br>
 Para visualizar os itens adicionados e revisar as quantidades e valores antes de concluir a compra.<br>
@@ -38,8 +40,8 @@ Para visualizar os itens adicionados e revisar as quantidades e valores antes de
         <strong>E</strong> adicionei itens ao carrinho, <br>
         <strong>Quando</strong> clico no ícone de carrinho de compras, <br>
         <strong>Então</strong> devo ver um modal contendo o item adicionado,<br>
-        <strong>E</strong> devo ver um ícone de lixeira,</strong>.
-        <strong>E</strong> devo ver um botão “Checkout”.</strong>.
+        <strong>E</strong> devo ver um ícone de lixeira,</strong><br>
+        <strong>E</strong> devo ver um botão “Checkout”.</strong>
       </td>
       <td>Manual</td>
       <td>Aprovado</td>

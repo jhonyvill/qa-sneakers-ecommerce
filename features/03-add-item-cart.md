@@ -1,7 +1,9 @@
 ## Funcionalidade.
+
 **Adicionar item ao carrinho de compras.**
 
 ## User Story.
+
 Como cliente,<br>
 Quero adicionar produtos ao meu carrinho de compras,<br>
 Para poder revisar minha seleção antes de finalizar a compra.<br>
@@ -36,7 +38,7 @@ Para poder revisar minha seleção antes de finalizar a compra.<br>
         <strong>Dado</strong> que estou na página de um produto, <br>
         <strong>E</strong> a quantidade selecionada do item é maior que 0, <br>
         <strong>Quando</strong> clico no botão “Add to Cart”, <br>
-        <strong>Então</strong> a quantidade selecionada do item deve ser adicionada ao carrinho.
+        <strong>Então</strong> a quantidade selecionada do item deve ser adicionada ao carrinho. <br>
         <strong>E</strong> o valor total deve ser calculado como o preço unitário multiplicado pela quantidade selecionada.
       </td>
       <td>Manual</td>
